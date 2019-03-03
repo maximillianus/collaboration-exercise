@@ -1,0 +1,20 @@
+# Mac
+.DS_Store
+
+# ignore all .a files
+.a
+
+# But track lib.a
+!lib.a
+
+# only ignore TODO file in current dir
+/TODO
+
+# ignore all files in build directory
+build/
+
+# ignore doc/notes.txt and other text files but not doc/server/arch.txt
+doc/*.txt
+
+# ignore all .pdf files in doc/ dir and its subdir
+doc/**/*.pdf
