@@ -5,11 +5,12 @@
 - ~~Get Git Repo~~
 - ~~Recording changes~~
 - ~~Viewing commit history~~
-- Undoing things
-- Working with Remotes
-- Tagging
-- Git aliases
-- Summary
+- ~~Undoing things~~
+- ~~Working with Remotes~~
+- ~~Tagging~~
+  - *Might have to dig more*
+- ~~Git aliases~~
+- ~~Summary~~
 
 ## Git Branching
 - Branches in Nutshell
